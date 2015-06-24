@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<resources> 
+    <titulo>Inscrições em Robô Bombeiro</titulo>
+    <linguagem>Idioma</linguagem> 
+    <inscricoes>Inscrições</inscricoes> 
+    <utilizador>Utilizador</utilizador>
+	<proximaedicao>Próxima edição. Inscreva-se agora!</proximaedicao>
+	<nomeedicao>Edição</nomeedicao>
+	<dataedicao>Data da próxima edição</dataedicao>
+	<localedicao>Local</localedicao>
+	<paisedicao>País de realização</paisedicao>
+	<estadoequipa>Estado da equipa</estadoequipa>
+	<naoinscritoequipa>Atualmente, não está inscrito em nenhuma equipa.</naoinscritoequipa>
+	<inscricaoequipacorreta>Foi inscrito com sucesso na equipa selecionada.</inscricaoequipacorreta>
+	<inscricaoequipaincorreta>Houve um erro na inscrição.</inscricaoequipaincorreta>
+	
+	<edicaoequipacorreta>A sua inscrição foi alterada com sucesso!</edicaoequipacorreta>
+	<edicaoequipaincorreta>Houve um erro na alteração da inscrição.</edicaoequipaincorreta>
+	
+	<eliminacaoequipacorreta>A sua inscrição foi eliminada com sucesso!</eliminacaoequipacorreta>
+	<eliminacaoequipaincorreta>Houve um erro na eliminação da inscrição.</eliminacaoequipaincorreta>
+	
+	<estadoequipa>Estado da inscrição</estadoequipa>
+	<inscricaoequiparepetida>Já está inscrito numa equipa, pelo que não pode fazer mais inscrições. Se desejar inscrever-se noutra equipa, desinscreva-se da equipa atual!</inscricaoequiparepetida>
+	<equipaemqueestaregistado>Equipa em qual está inscrito:</equipaemqueestaregistado>
+	<utilizadoreliminado>Utilizador eliminado com sucesso.</utilizadoreliminado>
+	<utilizadornaoeliminado>Utilizador não foi eliminado</utilizadornaoeliminado>
+    <login>Realize login</login>
+    <pass>Senha</pass>
+	<pais>Pais</pais>
+    <pass_placeholder>Introduza o seu nome de utilizador</pass_placeholder>
+    <pass_placeholder2>Introduza a sua senha</pass_placeholder2>
+    <pass_placeholder3>Introduza o seu nome</pass_placeholder3>
+    <pass_placeholder4>Escreva o seu e-mail</pass_placeholder4>
+    <pass_placeholder5>Introduza o seu número de telefone</pass_placeholder5>
+    <pass_placeholder6>Introduza a sua sua morada</pass_placeholder6>
+	<pass_placeholder11>Introduza o seu país</pass_placeholder11>
+	<pass_placeholderNomeEquipa>Introduza o nome da equipa</pass_placeholderNomeEquipa>
+	<pass_placeholderTelefoneEquipa>Introduza o telefone da equipa</pass_placeholderTelefoneEquipa>
+	<pass_placeholderEmailEquipa>Introduza o email da equipa</pass_placeholderEmailEquipa>
+	<pass_placeholderInstituicaoEquipa>Introduza o nome da instituição</pass_placeholderInstituicaoEquipa>
+	<pass_placeholderNomeEquipa>Introduza o nome da equipa</pass_placeholderNomeEquipa>
+	<erroEscolhaCat>Escolha uma categoria</erroEscolhaCat>
+    <confirmar>Confirmar</confirmar>
+	<eliminar>Eliminar</eliminar>
+    <cancelar>Cancelar</cancelar>
+
+    <opcoes>Opções</opcoes>
+    <registo>Registar participante</registo>
+	<registoequipa>Registar Equipa</registoequipa>
+    <paginainicial>Página inicial</paginainicial>
+    <estatistica>Estatística</estatistica>
+    <nomeutilizador>Nome</nomeutilizador>
+	<nomeequipa>Nome da equipa</nomeequipa>
+    <emailutilizador>Correio eletrónico</emailutilizador>
+	<dataequipa>Data de inscrição da equipa</dataequipa>
+	<emailequipa>Correio eletrónico da equipa</emailequipa>
+    <telefoneutilizador>Telefone</telefoneutilizador>
+	<telefoneequipa>Telefone da equipa</telefoneequipa>
+    <moradautilizador>Morada</moradautilizador>
+	<instituicao>Instituição de ensino</instituicao>
+	<categoriaequipa>Categoria</categoriaequipa>
+	<edicao>Edição</edicao>
+	<dataedicao>Data de realização</dataedicao>
+    <empresa>Empresa</empresa>
+    <nomeempresa>Designação</nomeempresa>
+    <moradaempresa>Morada</moradaempresa>
+    <actividadeempresa>Atividade</actividadeempresa>
+    <telefoneempresa>Telefone</telefoneempresa>
+    <fotoutilizador>Fotografia</fotoutilizador>
+    <textfotoupload>Carregar...</textfotoupload>
+    <informacao>Informação</informacao>
+    <registocorreto>O registo foi efetuado com sucesso, efetue agora login.</registocorreto>
+	<registocorretoequipa>A equipa foi registada com sucesso.</registocorretoequipa>
+    <registoincorretoimagem>Houve um problema com o registo: o ficheiro carregado não é uma imagem ou a imagem é maior que 2048 KB.</registoincorretoimagem>
+    <registoincorreto>Houve um problema, o registo não foi efetuado.</registoincorreto>
+    <utilizadorrepetido>O registo não foi efetuado, existe um utilizador com o mesmo nome.</utilizadorrepetido>
+	<equiparepetida>O registo não foi efetuado, existe uma equipa com o mesmo nome.</equiparepetida>
+    <subjectregisto>Registo de utilizador no Robô Bombeiro</subjectregisto>
+    <messageemailregisto>O registo foi efetuado com sucesso, efetue agora login com as suas credênciais: </messageemailregisto>
+    <dadospessoais>Dados Pessoais</dadospessoais>
+    <participante>Meus dados</participante>
+	<equipa>Registar equipa</equipa>
+	<equipaParticipante>Inscrever em equipa</equipaParticipante>
+    <documentos>Documentos</documentos>
+    <imagem>Imagem</imagem>
+    <porcategoria>Números de equipas por categoria</porcategoria>
+    <numeroequipas>Número de equipas registadas</numeroequipas>
+    <editar>Editar</editar>
+    <repetido>Existe um utilizador com o mesmo nome.</repetido>
+    <atualizacaocorreta>Atualização efetuada com sucesso.</atualizacaocorreta>
+    <atualizaoincorretaimagem>Houve um problema com a atualização: o ficheiro carregado não é uma imagem ou a imagem é maior que 2048 KB.</atualizaoincorretaimagem>
+    <atualizacaoincorreta>Houve um problema, a atualização não foi efetuada.</atualizacaoincorreta>
+    <certificado>Instituto Politécnico da Guarda</certificado>
+	<certificadoRobo>Equipa do concurso Robô Bombeiro</certificadoRobo>
+    <provainscricao>Prova de inscrição no concurso Robô Bombeiro</provainscricao>
+	<datacertificado>Emitido em</datacertificado>
+</resources>

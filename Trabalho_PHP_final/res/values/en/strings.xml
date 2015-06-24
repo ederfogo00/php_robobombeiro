@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<resources> 
+    <titulo>Sign up for the Robô Bombeiro</titulo>
+    <linguagem>Language</linguagem> 
+    <inscricoes>Registers</inscricoes> 
+    <utilizador>User</utilizador>
+	<proximaedicao>Next edition. Sign up now!</proximaedicao>
+	<nomeedicao>Edition</nomeedicao>
+	<dataedicao>Next edition date</dataedicao>
+	<localedicao>Place</localedicao>
+	<paisedicao>Country of edition</paisedicao>
+	<estadoequipa>Team status</estadoequipa>
+	<naoinscritoequipa>You are not registered on any team.</naoinscritoequipa>
+	<inscricaoequipacorreta>You were registered successfully on the selected team.</inscricaoequipacorreta>
+	<inscricaoequipaincorreta>There was an error on registering.</inscricaoequipaincorreta>
+	
+	<edicaoequipacorreta>Your register were altered successfully!</edicaoequipacorreta>
+	<edicaoequipaincorreta>There was an error on altering your register.</edicaoequipaincorreta>
+	
+	<eliminacaoequipacorreta>Your register were successfully erased!</eliminacaoequipacorreta>
+	<eliminacaoequipaincorreta>There was an error on registering.</eliminacaoequipaincorreta>
+	
+	<estadoequipa>Registration status</estadoequipa>
+	<inscricaoequiparepetida>You are already registered on a team, whereby you cannot register in another team. If you wish to register in another team, unregister your name from the current team.</inscricaoequiparepetida>
+	<equipaemqueestaregistado>Team in which you are registered:</equipaemqueestaregistado>
+	<utilizadoreliminado>User erased successfully.</utilizadoreliminado>
+	<utilizadornaoeliminado>User was not eliminated</utilizadornaoeliminado>
+    <login>Login</login>
+    <pass>Password</pass>
+	<pais>Country</pais>
+    <pass_placeholder>Insert your username</pass_placeholder>
+    <pass_placeholder2>Insert your password</pass_placeholder2>
+    <pass_placeholder3>Insert your name</pass_placeholder3>
+    <pass_placeholder4>Insert your e-mail</pass_placeholder4>
+    <pass_placeholder5>Insert your phone</pass_placeholder5>
+    <pass_placeholder6>Insert your address</pass_placeholder6>
+	<pass_placeholder11>Insert your country</pass_placeholder11>
+	<pass_placeholderNomeEquipa>Insert team name</pass_placeholderNomeEquipa>
+	<pass_placeholderTelefoneEquipa>Insert team phone</pass_placeholderTelefoneEquipa>
+	<pass_placeholderEmailEquipa>Insert team email</pass_placeholderEmailEquipa>
+	<pass_placeholderInstituicaoEquipa>Insert team institution</pass_placeholderInstituicaoEquipa>
+	<erroEscolhaCat>Choose an class</erroEscolhaCat>
+    <confirmar>Confirm</confirmar>
+	<eliminar>Erase</eliminar>
+    <cancelar>Cancel</cancelar>
+
+    <opcoes>Options</opcoes>
+    <registo>Register participant</registo>
+	<registoequipa>Register team</registoequipa>
+    <paginainicial>Home</paginainicial>
+    <estatistica>Statistics</estatistica>
+    <nomeutilizador>Name</nomeutilizador>
+	<nomeequipa>Team name</nomeequipa>
+    <emailutilizador>E-mail</emailutilizador>
+	<dataequipa>Team register date</dataequipa>
+	<emailequipa>Team e-mail</emailequipa>
+    <telefoneutilizador>Phone</telefoneutilizador>
+	<telefoneequipa>Team phone</telefoneequipa>
+    <moradautilizador>Address</moradautilizador>
+	<instituicao>Team institution</instituicao>
+	<categoriaequipa>Class</categoriaequipa>
+	<edicao>Edition</edicao>
+	<dataedicao>Date of competition</dataedicao>
+    <fotoutilizador>Photo</fotoutilizador>
+    <textfotoupload>Load...</textfotoupload>
+    <informacao>Information</informacao>
+    <registocorreto>You were successfully registered. Login to proceed.</registocorreto>
+	<registocorretoequipa>The team was successfully registered.</registocorretoequipa>
+    <registoincorretoimagem>There was a problem with your registration: the loaded file is not an image or it is bigger than 2048 KB.</registoincorretoimagem>
+    <registoincorreto>There was a problem. The registration was not completed.</registoincorreto>
+    <utilizadorrepetido>There is an user with the same username.</utilizadorrepetido>
+	<equiparepetida>There is a team with the same username.</equiparepetida>
+    <subjectregisto>Registo de utilizador no Robô Bombeiro</subjectregisto>
+    <messageemailregisto>Ypur registration was successfully completed. Login with you given credentials: </messageemailregisto>
+    <dadospessoais>Personal information</dadospessoais>
+    <participante>My informations</participante>
+	<equipa>Register team</equipa>
+	<equipaParticipante>Register on a team</equipaParticipante>
+    <documentos>Documents</documentos>
+    <imagem>Image</imagem>
+    <porcategoria>Number of teams per class</porcategoria>
+    <numeroequipas>Number of registered teams</numeroequipas>
+    <editar>Edit</editar>
+    <repetido>There is an user with the same username.</repetido>
+    <atualizacaocorreta>Successfully updated.</atualizacaocorreta>
+    <atualizaoincorretaimagem>There was a problem with your registration: the loaded file is not an image or it is bigger than 2048 KB.</atualizaoincorretaimagem>
+    <atualizacaoincorreta>There was a problem. The registration was not completed.</atualizacaoincorreta>
+    <certificado>Instituto Politécnico da Guarda</certificado>
+	<certificadoRobo>Robô Bombeiro crew</certificadoRobo>
+    <provainscricao>Certificate of registration on the competition Robô Bombeiro</provainscricao>
+	<datacertificado>Issued on</datacertificado>
+</resources>
